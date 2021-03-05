@@ -1,4 +1,4 @@
-I'm Varun, I've been programming since 2013 and been doing technology related things through my entire life! 
+HI! I'm Varun, I've been programming since 2013 and been doing technology related things my entire life! 
 
 I really enjoy learning and that feeling of learning something new motivates me like nothing else. 
 
