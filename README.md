@@ -1,6 +1,6 @@
 
 # About Me
-Hi! I'm Varun, I've been programming since 2013 and been doing technology related things my entire life! 
+Hi! I'm Varun, I've been programming since 2013 and been doing technology related things my entire life! From humble beginnings with Minecraft servers, to competitive robotics I always try to keep myself busy somehow. 
 
 I really enjoy learning and that feeling of learning something new motivates me like nothing else. 
 
