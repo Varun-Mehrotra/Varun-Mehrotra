@@ -1,6 +1,6 @@
-Check out my sites here! They're a WIP, but hosted in my (homelab repo)[https://github.com/Varun-Mehrotra/homelab]
-(chelseas-plate.webguru.ca)[http://chelseas-plate.webguru.ca/]
-(vicintiy.webguru.ca)[http://vicinity.webguru.ca/]
+Check out my sites here! They're a WIP, but hosted in my [homelab repo](https://github.com/Varun-Mehrotra/homelab)
+[chelseas-plate.webguru.ca](http://chelseas-plate.webguru.ca/)
+[vicintiy.webguru.ca](http://vicinity.webguru.ca/)
 
 
 # About Me
