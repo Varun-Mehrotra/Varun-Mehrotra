@@ -1,3 +1,7 @@
+Check out my sites here! They're a WIP, but hosted in my (homelab repo)[https://github.com/Varun-Mehrotra/homelab]
+(chelseas-plate.webguru.ca)[http://chelseas-plate.webguru.ca/]
+(vicintiy.webguru.ca)[http://vicinity.webguru.ca/]
+
 
 # About Me
 Hi! I'm Varun, I've been programming since 2013 and been doing technology related things my entire life! From humble beginnings with Minecraft servers, to competitive robotics I always try to keep myself busy somehow. 
